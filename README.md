@@ -1,5 +1,7 @@
 # nlw-spacetime-app
-NLW Spacetime APP
+NLW Spacetime APP.
+
+Link [API](https://github.com/karenyov/nlw-spacetime-api).
 
 
 ## Requisitos
