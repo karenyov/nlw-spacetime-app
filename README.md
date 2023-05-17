@@ -7,6 +7,9 @@ Link [API](https://github.com/karenyov/nlw-spacetime-api).
 ## Requisitos
 - [Nodejs](https://nodejs.org/en/download/)
 
+## Bibliotecas
+:white_check_mark:	[NativeWind](https://www.nativewind.dev/)
+
 
 ## Rodando
 > Entrar na pasta do projeto e executar: 
